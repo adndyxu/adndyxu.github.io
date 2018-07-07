@@ -1,0 +1,114 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [
+      {
+        "id": "swiper-0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1805/3b/ef86879aa50e3002.jpg_750x200_2a108508.jpg"
+      },
+      {
+        "id": "swiper-0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1806/f5/ea83238744f31102.jpg_750x200_73b8477c.jpg"
+      },
+      {
+        "id": "swiper-0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1806/c5/8f384b861e4e9e02.jpg_750x200_29d574ba.jpg"
+      }
+    ],
+    "iconList": [
+      {
+        "id": "icon-001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "desc": "景点门票"
+      },
+      {
+        "id": "icon-002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+        "desc": "一日游"
+      },
+      {
+        "id": "icon-003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "desc": "必游榜单"
+      },
+      {
+        "id": "icon-004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+        "desc": "动植物园"
+      },
+      {
+        "id": "icon-005",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/6a/45f595250c73d102.png",
+        "desc": "夏日玩水"
+      },
+      {
+        "id": "icon-006",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1805/57/1e29afd06f881102.png",
+        "desc": "普陀山"
+      },
+      {
+        "id": "icon-007",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b1/528a9e80403b8c02.png",
+        "desc": "上海欢乐谷"
+      },
+      {
+        "id": "icon-008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ed/cf572be30fc32f02.png",
+        "desc": "Q+精选"
+      },
+      {
+        "id": "icon-009",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png",
+        "desc": "全部玩乐"
+      },
+      {
+        "id": "icon-010",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/de/f26be47a6bf02a02.png",
+        "desc": "上海迪士尼"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": "rec-0001",
+        "title": "上海玛雅海滩水公园",
+        "site": "佘山国家公园",
+        "price": "140",
+        "url": "http://img1.qunarzz.com/sight/p0/1506/30/7a528fae12c17e6e29d5d13a9d9813ee.water.jpg_200x200_e7f0d0ad.jpg"
+      },
+      {
+        "id": "rec-0002",
+        "title": "上海迪士尼乐园",
+        "site": "浦东新区",
+        "price": "69",
+        "url": "http://img1.qunarzz.com/sight/p0/1607/7c/7cda8b6782dabd80b4.img.jpg_200x200_2039e660.jpg"
+      },
+      {
+        "id": "rec-0003",
+        "title": "东方明珠",
+        "site": "浦东新区",
+        "price": "128",
+        "url": "http://img1.qunarzz.com/tuan/team2/1507/2c/83e0e0e7ae082a.jpg_200x200_6d7378b2.jpg"
+      }
+    ],
+    "weekendList": [
+      {
+        "id": "weekend-0001",
+        "title": "上海必游TOP10",
+        "desc": "中西合璧，现代和传统各有各的精彩",
+        "url": "http://img1.qunarzz.com/sight/source/1505/7d/df6ff468331c43.jpg_r_640x214_1f3783d0.jpg"
+      },
+      {
+        "id": "weekend-0002",
+        "title": "亲子时光TOP10",
+        "desc": "走进自然或玩转乐园，感知大千世界",
+        "url": "http://img1.qunarzz.com/sight/source/1603/ad/69b0fc5f48ad5f.jpg_r_640x214_b0fd5c7b.jpg"
+      },
+      {
+        "id": "weekend-0003",
+        "title": "上海城市观光",
+        "desc": "来这里寻找你所认识的上海",
+        "url": "http://img1.qunarzz.com/sight/source/1511/1d/fe098e8cfec117.jpg_r_640x214_a9be292a.jpg"
+      }
+    ]
+  }
+}

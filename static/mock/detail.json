@@ -1,0 +1,79 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "上海玛雅海滩水公园",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1506/30/7a528fae12c17e6e29d5d13a9d9813ee.water.jpg_600x330_866232e3.jpg",
+    "galleryImgs": [
+      {
+        "id": "img-001",
+        "url": "http://img1.qunarzz.com/sight/p0/1506/30/7a528fae12c17e6e29d5d13a9d9813ee.water.jpg_350x240_53d5fff9.jpg"
+      },
+      {
+        "id": "img-002",
+        "url": "http://img1.qunarzz.com/sight/p0/1506/dd/7659217cc529114eba75b42ace21ca4a.water.jpg_350x240_e9624f11.jpg"
+      },
+      {
+        "id": "img-003",
+        "url": "http://img1.qunarzz.com/sight/p0/1506/38/0b27cc769af006603c07e1e742c219fb.water.jpg_350x240_cb929f40.jpg"
+      },
+      {
+        "id": "img-004",
+        "url": "http://img1.qunarzz.com/sight/p0/1506/ba/d25df17c5f6542e03695ba7b8bf766c4.water.jpg_350x240_293f24ad.jpg"
+      },
+      {
+        "id": "img-005",
+        "url": "http://img1.qunarzz.com/sight/p0/1506/b9/0d356b635e50475966043c05a7792798.water.jpg_350x240_46c3d66e.jpg"
+      },
+      {
+        "id": "img-006",
+        "url": "http://img1.qunarzz.com/sight/p0/1506/9f/e654025b560ec97e2be2c1c48427c9c9.water.jpg_350x240_1efb90b8.jpg"
+      }
+    ],
+    "categoryList": [
+      {
+        "name": "成人票",
+        "children": [
+          {
+            "name": "上海玛雅海滩水公园成人全日票",
+            "price": 210
+          },
+          {
+            "name": "上海玛雅海滩水公园夜场票",
+            "price": 180
+          }
+        ]
+      },
+      {
+        "name": "儿童/老人票",
+        "children": [
+          {
+            "name": "上海玛雅海滩水公园儿童长者全日票",
+            "price": 140
+          }
+        ]
+      },
+      {
+        "name": "家庭票",
+        "children": [
+          {
+            "name": "上海玛雅海滩水公园家庭套票（2大1小）",
+            "price": 520
+          }
+        ]
+      },
+      {
+        "name": "热销票",
+        "children": [
+          {
+            "name": "上海玛雅海滩水公园日场+欢乐谷夜场2日儿童长者联票",
+            "price": 270
+          },
+          {
+            "name": "上海玛雅海滩水公园夜场+欢乐谷日场1日儿童长者促销联票",
+            "price": 260
+          }
+        ]
+      }
+    ]
+  }
+}
